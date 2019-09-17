@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Portland Metro & Southwest Washington Careers
 permalink: /join-our-team/
 ---
 
